@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     int minCost(int[][] costs) {
         // code here
         int n = costs.length;
